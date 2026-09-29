@@ -1,0 +1,12 @@
+{
+  "name": "Réussir l’étude de documents · IFAP",
+  "short_name": "Étude de documents",
+  "lang": "fr",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F7F5FB",
+  "theme_color": "#7C6EAF",
+  "icons": [
+    {"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
